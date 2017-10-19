@@ -21,11 +21,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://N0bl3.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  N0bl3
 lang: fr-fr
+show_downloads: false
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -38,6 +42,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-# Disqus config
-comments: true
