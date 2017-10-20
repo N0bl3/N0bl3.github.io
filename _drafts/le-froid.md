@@ -13,8 +13,7 @@ Aujourd'hui c'est cocktails! Je reviens tout juste de la [London Coktail Week](h
 
 - [Le matériel]({{ site.baseurl }}{{ post_url # }})
 - [Le froid]({{ site.baseurl }}{{ post_url # }})
-- [Le mélange]({{ site.baseurl }}{{ post_url # }})
-- [La recette]({{ site.baseurl }}{{ post_url # }})
+- [Les ingrédients]({{ site.baseurl }}{{ post_url # }})
 
 ---
 
