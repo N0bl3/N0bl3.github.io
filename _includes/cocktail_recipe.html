@@ -1,0 +1,21 @@
+{% assign recipe = site.data.recipes.cocktails[page.recipe] %}
+<div class="recipe">
+    <div class="recipe-content">
+        <h2>Daiquiri Classic</h2>
+        <h3>Ingredients:</h3>
+        <ul id="ingredients">
+            {% for ingredient in recipe.ingredients %}
+            <li>{{ingredient.name}} - {{ingredient.quantity}}</li>
+            {% endfor %}
+        </ul>
+        <h3>Etapes:</h3>
+        Dans un {{recipe.glass}}:
+        <ul id="steps">
+            {% for step in recipe.steps %}
+            <li>{{step}}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="recipe-pic" style="background-image: url('/images/{{recipe.image}}');">
+    </div>
+</div>
