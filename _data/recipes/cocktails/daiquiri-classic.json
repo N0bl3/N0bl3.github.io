@@ -1,0 +1,25 @@
+{
+  "name": "Classic Daiquiri",
+  "ingredients": [
+    {
+      "name": "Rhum blanc industriel (Havana Club, Bacardi...)",
+      "alcohol": true,
+      "quantity": "4 oz"
+    },
+    {
+      "name": "Jus de citron vert",
+      "alcohol": false,
+      "quantity": "2 oz"
+    },
+    {
+      "name": "Sirop de sucre",
+      "alcohol": false,
+      "quantity": "1 oz"
+    }
+  ],
+  "tools": ["Shaker"],
+  "steps": ["Verser les ingrédients dans le shaker", "Remplir le shaker de glace et secouer environ 10 secondes", "Avant de verser, retirer la glace du verre à Martini",
+    "Filtrer si possible deux fois pour retirer la pulpe du citron et verser dans le verre", "Servir immédiatement", "Idée déco: Un demi rondelle de citron posée sur le bord du verre", "Variante: Et pourquoi pas essayer un peu de menthe dans le shaker?"],
+  "glass": "Verre à Martini",
+  "image": "classic-daiquiri.jpg"
+}
