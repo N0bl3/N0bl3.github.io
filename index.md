@@ -3,7 +3,7 @@ layout: default
 comments: false
 ---
 
-# Last posts
+# Derniers articles
 {% include posts_list.html %}
 
 {% include analytics.html %}

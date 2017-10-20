@@ -13,10 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alexandre Noble
+title: L'art de l'apéro
 email: alexandre.noble.pro@gmail.com
 description:
-  I'm a pharmacy student & a self taught developer roaming the realms of NodeJS.
+  Le plaisir qu'est ce que c'est? Bien manger? Oui! Mais bien boire? Aussi.
+  Ca tombe bien... ici on parle de l'apéro!
+  Alors? On trinque?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://N0bl3.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  N0bl3
