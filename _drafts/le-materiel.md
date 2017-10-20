@@ -9,11 +9,10 @@ comments: true
 
 Aujourd'hui on fête le premier post sur mon blog dont une partie sera consacrée aux **boissons** au sens large. Alcoolisées ou non. Sucrées ou salées! De tous les goûts et toutes les couleurs. Nous explorerons toutes les possibilités pour se désaltérer dans les meilleures conditions.
 
-Je reviens tout juste de la [London Coktail Week](https://drinkup.london/cocktailweek/) sur laquelle je ferai un billet à l'avenir. Ces quelques jours m'ont aidé à mettre au clair les 4 éléments principaux d'un cocktail réussi:
+Je reviens tout juste de la [London Coktail Week](https://drinkup.london/cocktailweek/) sur laquelle je ferai un billet à l'avenir. Ces quelques jours m'ont aidé à mettre au clair les éléments principaux d'un cocktail réussi:
 
 - [Le matériel](#le-materiel)
-- [Le froid](#)
-- [Les ingrédients](#)
+- (A completer!)
 
 ---
 
