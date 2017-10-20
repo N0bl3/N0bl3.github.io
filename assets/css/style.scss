@@ -4,9 +4,8 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background-image    : url("/images/banner-background.jpg");
-  background-size     : cover;
-  background-position : center;
+  background-size : cover;
+  background      : url("/images/banner-background.jpg") center;
 }
 
 .page-header-box {
