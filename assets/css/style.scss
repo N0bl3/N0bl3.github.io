@@ -4,6 +4,37 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background-image: url("/images/banner-background.jpg");
-  background-size : cover;
+  background-image    : url("/images/banner-background.jpg");
+  background-size     : cover;
+  background-position : center;
+}
+
+.page-header-box {
+  max-width        : 50%;
+  margin           : 0 auto;
+  border-radius    : 30px;
+  background-color : rgba(20, 20, 20, 0.6);
+}
+
+.page-header a {
+  color : inherit;
+}
+
+.recipe {
+  display        : flex;
+  flex-direction : row;
+  align-items    : stretch;
+}
+
+.recipe-pic {
+  min-height          : 320px;
+  min-width           : 180px;
+  max-height          : 1280px;
+  max-width           : 220px;
+  background-size     : cover;
+  background-position : center;
+}
+
+.site-footer-feedback {
+  @extend .site-footer-owner;
 }
