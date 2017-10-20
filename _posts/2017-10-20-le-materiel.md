@@ -1,5 +1,5 @@
 ---
-title: Quelques "trucs" pour rendre vos cocktails délicieux. Partie 1 - Le matériel
+title: "Les (bonnes) bases du cocktail. Partie 1 - Le matériel"
 author: Admin
 category: cocktails
 comments: true
