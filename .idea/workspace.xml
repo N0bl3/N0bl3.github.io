@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f62d58c-f1e7-43c0-b55b-3834f3aad76e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="6006249f-4231-4316-b303-bc9c194de894" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,12 +12,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-10-17-post.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-10-17-post.md">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="119">
-                <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <first_editor relative-caret-position="85">
+                <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -29,157 +25,70 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+              <folding>
+                <element signature="n#head#0;n#!!top" expanded="true" />
+                <element signature="n#meta#1;n#head#0;n#!!top" expanded="true" />
+                <element signature="n#section#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#a#0;n#div#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#i#0;n#a#0;n#div#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#span#0;n#footer#0;n#section#1;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#a#1;n#span#0;n#footer#0;n#section#1;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#span#1;n#footer#0;n#section#1;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#a#0;n#span#1;n#footer#0;n#section#1;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#script#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="e#2305#2588#0" expanded="true" />
+                <element signature="e#2373#2426#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-10-20-le-materiel.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-10-20-le-materiel.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="44" lean-forward="false" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="101" column="6" lean-forward="true" selection-start-line="101" selection-start-column="6" selection-end-line="101" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>site</find>
-      <find>seo</find>
-      <find>incl</find>
-    </findStrings>
-  </component>
-  <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="SOFT" />
-    <option name="SIGN_OFF_COMMIT" value="true" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/inde.html" />
-        <option value="$PROJECT_DIR$/_layouts/main.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/_includes/header.md" />
-        <option value="$PROJECT_DIR$/_includes/footer.md" />
-        <option value="$PROJECT_DIR$/_includes/posts_list.html" />
-        <option value="$PROJECT_DIR$/_layouts/home.md" />
-        <option value="$PROJECT_DIR$/_layouts/post.md" />
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/_includes/head.html" />
-        <option value="$PROJECT_DIR$/_includes/foot.html" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Elixir_SDK.xml" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/Gemfile.lock" />
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/_layouts/default.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-10-17-post.md" />
-        <option value="$PROJECT_DIR$/_includes/posts_list.md" />
-        <option value="$PROJECT_DIR$/_layouts/posts.html" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/index.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBowerSettings">
-    <exe-path>$USER_HOME$/AppData/Roaming/npm/bower.cmd</exe-path>
-    <config-path />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsFlowSettings">
-    <service-enabled>false</service-enabled>
-    <exe-path />
-    <annotation-enable>false</annotation-enable>
-    <other-services-enabled>false</other-services-enabled>
-  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="636" />
-    <option name="y" value="8" />
-    <option name="width" value="1286" />
-    <option name="height" value="1032" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Code quality toolsJavaScript</id>
-          </State>
-          <State>
-            <id>CoffeeScript</id>
-          </State>
-          <State>
-            <id>Cucumber</id>
-          </State>
-          <State>
-            <id>DOM issuesJavaScript</id>
-          </State>
-          <State>
-            <id>Dart</id>
-          </State>
-          <State>
-            <id>EJS</id>
-          </State>
-          <State>
-            <id>File Watchers</id>
-          </State>
-          <State>
-            <id>Flow type checkerJavaScript</id>
-          </State>
-          <State>
-            <id>GeneralCoffeeScript</id>
-          </State>
-          <State>
-            <id>GeneralJavaScript</id>
-          </State>
-          <State>
-            <id>Ini Files</id>
-          </State>
-          <State>
-            <id>Internationalization issues</id>
-          </State>
-          <State>
-            <id>JSON</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>Node.jsJavaScript</id>
-          </State>
-          <State>
-            <id>Pug/Jade</id>
-          </State>
-          <State>
-            <id>RELAX NG</id>
-          </State>
-          <State>
-            <id>Sass/SCSS</id>
-          </State>
-          <State>
-            <id>Unit testingJavaScript</id>
-          </State>
-          <State>
-            <id>XML</id>
-          </State>
-          <State>
-            <id>XPath</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>HTML</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -208,7 +117,18 @@
             <path>
               <item name="N0bl3.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="N0bl3.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="N0bl3.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="N0bl3.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="N0bl3.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="N0bl3.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,26 +137,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="RemoteServers" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="javascript.nodejs.core.library.configured.version" value="7.2.1" />
-    <property name="JavaScriptPreferStrict" value="false" />
-    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
-    <property name="js-jscs-package" value="C:\Program Files (x86)\nodejs\node_modules\jscs" />
-    <property name="js.eslint.eslintPackage" value="C:\Users\Admin\AppData\Roaming\npm\node_modules\eslint" />
-    <property name="js.eslint.nodeInterpreter" value="project" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="C:\Users\Admin\AppData\Roaming\npm\node_modules\eslint" />
-    <property name="node.js.path.for.package.standard" value="project" />
-    <property name="node.js.selected.package.standard" value="C:\Users\Admin\AppData\Roaming\npm\node_modules\standard" />
     <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.selected.package.jscs" value="C:\Users\Admin\AppData\Roaming\npm\node_modules\jscs" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="node.js.detected.package.jscs" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -253,265 +155,14 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="2" BundledDictionary0="less.dic" BundledDictionary1="english.dic" Folders="0" Dictionaries="0" />
   <component name="SvnConfiguration">
-    <configuration>C:\Users\Admin\AppData\Roaming\Subversion</configuration>
+    <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="2f62d58c-f1e7-43c0-b55b-3834f3aad76e" name="Default" comment="" />
-      <created>1508274534341</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1508274534341</updated>
-      <workItem from="1508274539372" duration="7539000" />
-      <workItem from="1508287379721" duration="6986000" />
-      <workItem from="1508323450223" duration="4691000" />
-      <workItem from="1508418945404" duration="7469000" />
-    </task>
-    <task id="LOCAL-00001" summary="Initial configuraton done.">
-      <created>1508278714906</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1508278714906</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Initial configuraton done.&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508287714699</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1508287714699</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;_posts/2017-10-17-post.md">
-      <created>1508287771835</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1508287771835</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;&#10;&#10;# Conflicts:&#10;#&#9;_posts/2017-10-17-post.md">
-      <created>1508287869394</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1508287869394</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508288080493</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1508288080493</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Initial configuration done&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508288867053</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1508288867053</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Initial configuration done&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508288995932</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1508288995932</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Initial configuration done&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508289060101</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1508289060101</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Initial configuration done&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508289110707</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1508289110707</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Initial configuration done&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508289180628</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1508289180628</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Initial configuration done&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508289223802</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1508289223802</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Initial configuration done&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508289266044</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1508289266044</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Initial configuration done&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508289337068</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1508289337068</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Initial configuration done&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508289410183</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1508289410183</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Initial configuration done&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508289554141</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1508289554141</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Initial configuration done&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508290059922</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1508290059922</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Initial configuration done&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508290120696</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1508290120696</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Initial configuration done&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508290206020</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1508290206020</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Initial configuration done&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508290412443</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1508290412443</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Initial configuration done&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508290834975</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1508290834975</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Initial configuration done&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508290854861</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1508290854861</updated>
-    </task>
-    <task id="LOCAL-00022" summary="bla">
-      <created>1508290982908</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1508290982908</updated>
-    </task>
-    <task id="LOCAL-00023" summary="bla">
-      <created>1508291041866</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1508291041866</updated>
-    </task>
-    <task id="LOCAL-00024" summary="testmd">
-      <created>1508291120554</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1508291120554</updated>
-    </task>
-    <task id="LOCAL-00025" summary="testmd">
-      <created>1508291225747</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1508291225747</updated>
-    </task>
-    <task id="LOCAL-00026" summary="testmd">
-      <created>1508291331031</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1508291331031</updated>
-    </task>
-    <task id="LOCAL-00027" summary="testmd">
-      <created>1508291370180</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1508291370180</updated>
-    </task>
-    <task id="LOCAL-00028" summary="testmd">
-      <created>1508292118261</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1508292118261</updated>
-    </task>
-    <task id="LOCAL-00029" summary="testmd">
-      <created>1508293834055</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1508293834055</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Initial config">
-      <created>1508325143396</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1508325143396</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Initial config&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508327604042</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1508327604042</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Personalization of config&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508423134316</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1508423134316</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Personalization of config&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508426739334</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1508426739334</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Personalization of config&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;">
-      <created>1508426748004</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1508426748004</updated>
-    </task>
-    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26685000" />
+    <option name="totallyTimeSpent" value="14000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -520,7 +171,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -536,59 +187,62 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="CHECK_NEW_TODO" value="false" />
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
-    <MESSAGE value="Initial configuraton done." />
-    <MESSAGE value="Initial configuraton done.&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;_posts/2017-10-17-post.md" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;&#10;&#10;# Conflicts:&#10;#&#9;_posts/2017-10-17-post.md" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;" />
-    <MESSAGE value="Initial configuration done&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;" />
-    <MESSAGE value="bla" />
-    <MESSAGE value="testmd" />
-    <MESSAGE value="Initial config" />
-    <MESSAGE value="Initial config&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;" />
-    <MESSAGE value="Personalization of config&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Personalization of config&#10;&#10;Signed-off-by: N0bl3 &lt;alexandre.noble.pro@gmail.com&gt;" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="38" column="91" lean-forward="false" selection-start-line="38" selection-start-column="91" selection-end-line="38" selection-end-column="91" />
+          <folding>
+            <element signature="n#head#0;n#!!top" expanded="true" />
+            <element signature="n#meta#1;n#head#0;n#!!top" expanded="true" />
+            <element signature="n#section#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#a#0;n#div#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#i#0;n#a#0;n#div#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#span#0;n#footer#0;n#section#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#a#1;n#span#0;n#footer#0;n#section#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#span#1;n#footer#0;n#section#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#a#0;n#span#1;n#footer#0;n#section#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="e#2305#2588#0" expanded="true" />
+            <element signature="e#2373#2426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/posts_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="n#ul#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-20-le-materiel.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-19-le-froid.md" />
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -606,30 +260,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/inde.html" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="131" column="16" lean-forward="false" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/post.md" />
     <entry file="file://$PROJECT_DIR$/_layouts/2017-10-17-post.md" />
     <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="102">
@@ -639,12 +279,18 @@
           <second_editor />
         </state>
       </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html" />
     <entry file="file://$PROJECT_DIR$/_layouts/__home.html" />
     <entry file="file://$PROJECT_DIR$/_includes/head.html" />
     <entry file="file://$PROJECT_DIR$/_includes/foot.html" />
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html" />
+    <entry file="file://$PROJECT_DIR$/_drafts/default.html" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -679,111 +325,202 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.md" />
-    <entry file="file://$PROJECT_DIR$/_includes/posts_list.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/posts.html" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-19-premier-post.md" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.es6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cfignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/default.html" />
+    <entry file="file://$PROJECT_DIR$/_includes/disqus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-19-le-froid.md" />
+    <entry file="file://$PROJECT_DIR$/_drafts/trucs-cocktails.md" />
+    <entry file="file://$PROJECT_DIR$/_data/recipes/cocktails/daiquiri-classic.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/classic-daiquiri.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/cocktail_recipe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/le-melange.md" />
+    <entry file="file://$PROJECT_DIR$/_drafts/les-ingredients.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="87" lean-forward="false" selection-start-line="1" selection-start-column="87" selection-end-line="1" selection-end-column="87" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/le-froid.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="15" column="55" lean-forward="false" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/comment-faire-un-bon-daiquiri.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/post_head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/posts_list.html">
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="51">
             <caret line="3" column="119" lean-forward="false" selection-start-line="3" selection-start-column="119" selection-end-line="3" selection-end-column="119" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="n#ul#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-20-le-materiel.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/posts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="612">
+          <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
           <folding>
-            <element signature="n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#section#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#a#0;n#section#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#footer#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-            <element signature="e#2193#2314#0" expanded="true" />
-            <element signature="e#2337#2604#0" expanded="true" />
-            <element signature="n#noscript#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#head#0;n#!!top" expanded="true" />
+            <element signature="n#meta#1;n#head#0;n#!!top" expanded="true" />
+            <element signature="n#section#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#a#0;n#div#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#i#0;n#a#0;n#div#0;n#section#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#span#0;n#footer#0;n#section#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#a#1;n#span#0;n#footer#0;n#section#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#span#1;n#footer#0;n#section#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#a#0;n#span#1;n#footer#0;n#section#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="e#2305#2588#0" expanded="true" />
+            <element signature="e#2373#2426#0" expanded="true" />
           </folding>
         </state>
       </provider>
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="578">
-            <caret line="75" column="92" lean-forward="false" selection-start-line="75" selection-start-column="92" selection-end-line="75" selection-end-column="92" />
-            <folding>
-              <element signature="n#div#0;n#body#0;n#!!top" expanded="true" />
-              <element signature="n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-              <element signature="n#section#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-              <element signature="n#a#0;n#section#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-              <element signature="n#footer#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-              <element signature="e#2193#2314#0" expanded="true" />
-              <element signature="e#2337#2604#0" expanded="true" />
-              <element signature="n#noscript#0;n#body#0;n#!!top" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="374">
+          <caret line="22" column="44" lean-forward="false" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-17-post.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="101" column="6" lean-forward="true" selection-start-line="101" selection-start-column="6" selection-end-line="101" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <last-edited>Unnamed</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
