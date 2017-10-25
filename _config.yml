@@ -20,7 +20,8 @@ description:
   Ca tombe bien... ici on parle de l'apéro!
   Alors? On trinque?
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://N0bl3.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: http://lartdelapero.fr # the base hostname & protocol for your site, e.g. http://example.com
+author: N0bl3
 github_username:  N0bl3
 lang: fr-fr
 show_downloads: false
