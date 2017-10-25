@@ -9,7 +9,7 @@ comments: true
 
 Aujourd'hui on fête le premier post sur mon blog dont une partie sera consacrée aux **boissons** au sens large. Alcoolisées ou non. Sucrées ou salées! De tous les goûts et toutes les couleurs. Nous explorerons toutes les possibilités pour se désaltérer dans les meilleures conditions.
 
-Je reviens tout juste de la [London Coktail Week](https://drinkup.london/cocktailweek/) sur laquelle je ferai un billet à l'avenir. Ces quelques jours m'ont aidé à mettre au clair les éléments principaux d'un cocktail réussi:
+Je reviens tout juste de la [London Cocktail Week](https://drinkup.london/cocktailweek/) sur laquelle je ferai un billet à l'avenir. Ces quelques jours m'ont aidé à mettre au clair les éléments principaux d'un cocktail réussi:
 
 - [Le matériel](#le-materiel)
 - (A completer!)
@@ -85,9 +85,10 @@ Je ne parle pas des verres à vin, etc... qui ont une utilisation bien particuli
   
 - La **cuillère paille**
 
-  Une cuillère cylindrique que l'on utilise pour goûter les cocktails avant de les servir. Evite les déconvenues et la bave que certains n'apprécientpas de partager avec vous (on se demande pourquoi, franchement!).
+  Une cuillère cylindrique que l'on utilise pour goûter les cocktails avant de les servir. Evite les déconvenues et la bave que certains n'apprécient pas de partager avec vous (on se demande pourquoi, franchement!).
   
 - La **cuillère spatule à trous** (je n'ai pas de meilleur nom...)
+
   Utile pour aller pêcher les olives dans la saumure sans en prendre le jus!
 
 ### Les divers <a id="les-divers"></a>
@@ -105,7 +106,7 @@ Je ne parle pas des verres à vin, etc... qui ont une utilisation bien particuli
   Pour infuser... du thé! Ou de la menthe. Ou tout autre plante dont les saveurs se dissolvent facilement. Usage particulier qui ne fonctionne pas forcément à froid.
 
 ### La décoration <a id="la-decoration"></a>
-C'est le moment de tout donner. Il ne manque plus que la déco? Parasols en papiers, olives traversées d'un cure-dent, zeste de citron torsadé, fruits rouges, glaçage au sucre... Peinture comestible? La décoration de nos boisson ne demande pas grand chose si ce n'est votre créativité.
+C'est le moment de tout donner. Il ne manque plus que la déco! Parasols en papiers, olives traversées d'un cure-dent, zeste de citron torsadé, fruits rouges, glaçage au sucre... Peinture comestible? La décoration de nos boissons ne demande pas grand chose si ce n'est votre créativité.
 
 En deux mots: **lâchez-vous**! Et faites moi part de vos plus folles créations dans la partie commentaires!
 
